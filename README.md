@@ -34,3 +34,4 @@ rathar it includes synthesised images those are colored & gray as well for predi
 Find **Pr[the_character_in_the_plate_is_some_character_from_the_label]**
 
 ## Result
+ <img src='https://github.com/pragyas03/Vehicle-Registration-Sequence-Recognition/blob/master/out_4_1.jpg'>
